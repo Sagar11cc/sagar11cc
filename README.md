@@ -2,9 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.ibb.co/YXB6CJ1/pic.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 I am a Full-stack Web Developer who is exploring Cloud while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML.
  
