@@ -41,7 +41,7 @@ I am a Full-stack Web Developer who is exploring Cloud while facilitating the wo
 
 ### You can find in me in the web 🌍
 
-[<img align="left" alt="Niraj Shrestha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sagar Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br/>
@@ -52,8 +52,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Niraj Shrestha](https://github.com/NirajXtha)
 
-[youtube]: https://www.youtube.com/@nepalisharingan2827/
-[instagram]: https://www.instagram.com/n_shrestha76/
-[linkedin]: https://www.linkedin.com/in/NirajXtha/
+[linkedin]: https://www.linkedin.com/in/sagar-cc-6982b9199/
