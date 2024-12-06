@@ -42,26 +42,6 @@ I am a Full-stack Web Developer who is exploring Cloud while facilitating the wo
 
 
 
----
-
-### You can find in me in the web 🌍
-
-[<img align="left" alt="Sagar Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-### Hey Sagar here 👋
-
----
-
-
-I am a Full-stack Web Developer who is exploring Cloud while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML.
- 
- 🔭 I’m planning for a Project **Real-Time Chat system**.
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=react&logoColor=white"> React JS
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
-  
- 💬 Ask me about Full Stack Web Development and any Tech-related stuff.
 
 
 
