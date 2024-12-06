@@ -18,26 +18,6 @@ I am a Full-stack Web Developer who is exploring Cloud while facilitating the wo
 ---
 
 
-### Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">### Hey Sagar here 👋
-
----
-
-
-I am a Full-stack Web Developer who is exploring Cloud while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML.
- 
- 🔭 I’m planning for a Project **Real-Time Chat system**.
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=react&logoColor=white"> React JS
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
-  
- 💬 Ask me about Full Stack Web Development and any Tech-related stuff.
-
 
 
 ---
