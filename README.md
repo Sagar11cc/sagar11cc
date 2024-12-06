@@ -135,33 +135,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [linkedin]: https://www.linkedin.com/in/sagar-cc-6982b9199/
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-PHP-336699?style=flat&logo=php&logoColor=FFFFFF%22">
-<img src="https://img.shields.io/badge/-Laravel-1F1F1F?style=flat&logo=laravel&logoColor=F9322C">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20C++%20&%20C%23-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-
-
-
----
-
-### You can find in me in the web 🌍
-
-[<img align="left" alt="Sagar Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br/>
-
-
----
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-
-[linkedin]: https://www.linkedin.com/in/sagar-cc-6982b9199/
