@@ -127,12 +127,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 <br/>
 
 
----
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-
-[linkedin]: https://www.linkedin.com/in/sagar-cc-6982b9199/
 
 
